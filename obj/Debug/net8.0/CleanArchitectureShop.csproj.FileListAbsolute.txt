@@ -1,0 +1,14 @@
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\bin\Debug\net8.0\CleanArchitectureShop.exe
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\bin\Debug\net8.0\CleanArchitectureShop.deps.json
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\bin\Debug\net8.0\CleanArchitectureShop.runtimeconfig.json
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\bin\Debug\net8.0\CleanArchitectureShop.dll
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\bin\Debug\net8.0\CleanArchitectureShop.pdb
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.AssemblyInfoInputs.cache
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.AssemblyInfo.cs
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.csproj.CoreCompileInputs.cache
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.dll
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\refint\CleanArchitectureShop.dll
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.pdb
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\CleanArchitectureShop.genruntimeconfig.cache
+C:\Users\Mads\RiderProjects\CleanArchitectureShop\obj\Debug\net8.0\ref\CleanArchitectureShop.dll

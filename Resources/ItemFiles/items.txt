@@ -1,0 +1,4 @@
+1, GuldRing, 100
+2, GuldHalskæde, 200
+3, SølHalskæde, 150
+4, Sølbar, 100
